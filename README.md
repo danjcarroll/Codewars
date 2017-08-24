@@ -3,7 +3,7 @@
 Solutions from Katas waged on [Codewars](https://codewars.com "Codewars").
 
 
-##Languages used:
+## Languages used:
 
 - Javascript
 - PHP
